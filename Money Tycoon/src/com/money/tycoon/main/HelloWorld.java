@@ -6,7 +6,8 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		
-		System.out.print("Welcome to Money Tycoon");
+		System.out.print("Welcome to Money Tycoon \n");
+		System.out.println("-----------------------");
 		menu();
 		
 	}
